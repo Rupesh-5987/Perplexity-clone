@@ -243,8 +243,6 @@ Relevance/Reranking
 LLM
  ↓
 Answer + Citations
+
 ```
 
-So if your goal is to make a **proper Perplexity-like project for your portfolio**, I would build the MVP first and then progressively add the advanced search/reasoning pipeline.
-
-If you want, I can take you through it **from Step 1 — creating the React + Node project — all the way to a working Perplexity clone**, including the backend code, API integration, streaming, citations, and deployment.
